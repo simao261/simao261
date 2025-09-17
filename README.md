@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Olá eu sou o Simão Rodrigues  
 
-<!--
-**simao261/simao261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 12.º ano em Técnico de Gestão e Programação de Sistemas Informáticos  
+💻 Programador curioso e sempre a aprender coisas novas  
+🚀 Apaixonado por transformar ideias em projetos reais  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills  
+- **Linguagens**: C#, JavaScript, Python, HTML, CSS, Swift, MySQL  
+- **Ferramentas**: Visual Studio, VS Code, Xcode, Unity, GitHub  
+
+---
+
+## 📂 Projetos em Destaque  
+- [Programação 11.º Ano](https://github.com/simao261/Programacao-11-ano)  
+- [Programação 10.º Ano](https://github.com/simao261/Programacao-10-ano)  
+- [Redes](https://github.com/simao261/Redes)  
+- [Shift APPens](https://github.com/simao261/Shift-appens)  
+
+---
+
+## 🏆 Certificações & Conquistas  
+- Cisco **IT Essentials**  
+- Cisco **JavaScript Essentials**  
+- Participação na **Shift APPens 2025**  
+
+---
+
+## 📫 Onde me encontrar  
+- GitHub: [@simao261](https://github.com/simao261)  
+
+
+---
+
+⭐ Sempre aberto a aprender mais e a colaborar em projetos interessantes!  
