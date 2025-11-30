@@ -13,9 +13,7 @@
 ---
 
 ## 📂 Projetos em Destaque  
-- [Programação 11.º Ano](https://github.com/simao261/Programacao-11-ano)  
-- [Programação 10.º Ano](https://github.com/simao261/Programacao-10-ano)  
-- [Redes](https://github.com/simao261/Redes)  
+
 - [Shift APPens](https://github.com/simao261/Shift-appens)  
 
 ---
